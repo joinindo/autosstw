@@ -7,3 +7,4 @@ pip install selenium
 python ss.py
 
 *INPUT LINK TWITTER KE FILE REPORT.TXT
+*Buatan kaye
